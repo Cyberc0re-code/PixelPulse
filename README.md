@@ -43,6 +43,12 @@ communications.
 
 ## 👥 Authors <a name="authors"></a>
 
+👤 **Anshuman Sahoo**
+
+- GitHub: [@Cyberc0re-code](https://github.com/Cyberc0re-code)
+- Twitter: [@Anshuman_2003](https://twitter.com/Anshuman_2003)
+- LinkedIn: [Anshuman Sahoo](https://www.linkedin.com/in/anshuman-sahoo-832342206/)
+
 👤 **Indira Kumar A K**
 
 - GitHub: [@Indira-kumar](https://github.com/Indira-kumar)
@@ -61,11 +67,6 @@ communications.
 - Twitter: [@keshah08](https://twitter.com/keshaha08)
 - LinkedIn: [Keshav Rathinavel](https://www.linkedin.com/in/keshavrathinavel/)
 
-👤 **Anshuman Sahoo**
-
-- GitHub: [@Cyberc0re-code](https://github.com/Cyberc0re-code)
-- Twitter: [@Anshuman_2003](https://twitter.com/Anshuman_2003)
-- LinkedIn: [Anshuman Sahoo](https://www.linkedin.com/in/anshuman-sahoo-832342206/)
 
 ## 🤝 Contributing <a name="contributing"></a>
 
